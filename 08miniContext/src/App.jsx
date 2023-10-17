@@ -8,6 +8,7 @@ function App() {
       <h1>React using context</h1>
       <Login />
       <Profile />
+      <div>Hi</div>
     </UserContextProvider>
   )
 }
